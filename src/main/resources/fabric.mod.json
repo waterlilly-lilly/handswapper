@@ -4,9 +4,9 @@
   "version": "${version}",
   "name": "handswapper",
   "description": "",
-  "authors": [],
+  "authors": ["Lilly Rosaline"],
   "contact": {
-    "repo": "https://github.com/mae/handswapper"
+    "repo": "https://github.com/waterlilly-lilly/handswapper"
   },
   "license": "unlicense",
   "icon": "assets/handswapper/icon.png",
