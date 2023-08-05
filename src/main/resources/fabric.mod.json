@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "handswapper",
+  "version": "${version}",
+  "name": "handswapper",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/mae/handswapper"
+  },
+  "license": "unlicense",
+  "icon": "assets/handswapper/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "online.maestoso.handswapper.client.HandswapperClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
